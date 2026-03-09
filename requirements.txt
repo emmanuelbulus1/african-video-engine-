@@ -10,3 +10,6 @@ moviepy==1.0.3
 requests==2.31.0
 pydantic==2.5.0
 aiofiles==23.2.1
+pytubefix==6.16.4
+imageio==2.33.1
+imageio-ffmpeg==0.4.9
